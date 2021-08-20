@@ -4,3 +4,4 @@ My personal projects
 - **Digit Recogniser** using CNN
 - **Titanic** using Classification Models
 - **Ethereum Price Stock Prediction** using LSTM 
+- **Home Credit Risk** using classifier techniques like XGB, CatBoost and LightGBM
